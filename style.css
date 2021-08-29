@@ -1,0 +1,10 @@
+  body{
+      background-image:linear-gradient(lavenderblush,lightcyan);
+      font-size: 30;
+  }
+
+  #family_member_image{
+      width: 25%;
+      height: 65%;
+  }
+  
